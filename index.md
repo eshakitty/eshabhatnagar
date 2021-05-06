@@ -5,6 +5,14 @@
 
 Hey there! I'm Esha. Let me tell you a little about the SNYC. The SNYC, or "Save Nature in Your Community",  is a small club that has a goal to spread awareness of nature preservation in communities. The SNYC strives to save nature. Our mascot is the snail. Extra information about the SNYC here: https://siddhixjain.github.io/snyc/index.html
 
-
 Our Mascot:
-![image](https://user-images.githubusercontent.com/83734393/117228709-6b4cde00-adce-11eb-8032-115a8bcd617b.png)
+
+   ![image](https://user-images.githubusercontent.com/83734393/117228709-6b4cde00-adce-11eb-8032-115a8bcd617b.png)
+
+
+  Earth's nature deserves to be taken care of. Even the littlest of things can have a positive effect on the environment. Partaking in "green" activities can contribute in the decrease of pollution on Earth. Remember: Nothing is impossible when done together! 
+  
+  
+  # _Preserve Natural Views_
+  
+  ![image](https://user-images.githubusercontent.com/83734393/117229392-c9c68c00-adcf-11eb-8af6-9e7a9196ba51.png)

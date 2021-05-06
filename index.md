@@ -7,8 +7,4 @@ Hey there! I'm Esha. Let me tell you a little about the SNYC. The SNYC, or "Save
 
 
 Our Mascot:
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/83734393/117228709-6b4cde00-adce-11eb-8032-115a8bcd617b.png)

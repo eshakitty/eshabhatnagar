@@ -19,6 +19,4 @@ Hey there! I'm Esha. Let me tell you a little about the SNYC. The SNYC, or "Save
    ![image](https://user-images.githubusercontent.com/83734393/117229872-ba940e00-add0-11eb-8d19-cc1cf003f6c0.png)
    
    **_Yellow dandelions, fresh from nature_**
-   
- 
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-comment-discussion" data-size="large" aria-label="Learn More ntkme/github-buttons on GitHub">Learn More</a>
+  

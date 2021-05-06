@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+                                        # Header 1 Saving Nature in Your Community (SNYC)
 
-You can use the [editor on GitHub](https://github.com/eshakitty/eshabhatnagar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+In SNYC, we strive to save nature in our communities. We spread awareness and atempt to be as "green" as possible. And you can, too!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
